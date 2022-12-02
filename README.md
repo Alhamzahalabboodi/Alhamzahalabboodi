@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alhamzahalabboodi, a Senior Data Analyst at a digital marketing agency. 
-As a Senior Data Analyst, I work and exteract data from a variety of sources to perform analysis and build dimensional models for business processes.
+As a Senior Data Analyst, I work and extract data from a variety of sources to perform analysis and build dimensional models for business processes.
 Day to day I use a combination of business strategy and technical data knowledge to translate complex information into clear and helpful visual analytics 
 dashboards displaying key metrics to support business decisions related to product development, delivery, and adoption strategies to deliver great digital marketing experiences.
 - 👀 I’m interested in Data Engineering and Data Analytics.
